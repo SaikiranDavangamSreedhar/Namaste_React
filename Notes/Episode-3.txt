@@ -1,0 +1,13 @@
+React element will return an object but not an html element. 
+React is different JSX is different.
+JSX makes developer life easy.Many of the developers think that JSX is same as React but React is different JSX is different.
+
+JSX is not html written inside javascript. JSX is different from html.(JSX is Html like or XML like syntax.)
+
+JSX is a valid javascript? - Not a valid javascript.
+JS engine doesnt understand JSX.
+JSX code is transpiled(by parcel with help of babel) before it reaches the JS Engine.
+
+JSX code is transpiled to react.createelement and then to JS object and then rendered into HTML element.
+
+babel transpiles ES6 code to older version understandable code.
