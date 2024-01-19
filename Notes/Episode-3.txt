@@ -11,3 +11,8 @@ JSX code is transpiled(by parcel with help of babel) before it reaches the JS En
 JSX code is transpiled to react.createelement and then to JS object and then rendered into HTML element.
 
 babel transpiles ES6 code to older version understandable code.
+
+// Class Based Components - OLD way of creating Components
+// Functional Components - NEW way of creating Components
+
+
