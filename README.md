@@ -19,3 +19,23 @@
 - Diagnostic
 - Error Handling
 - Https 
+
+
+# Namaste Food
+
+/**
+ * Header
+ *   - Logo
+ *   - Nav Items
+ * Body
+ *   - Search
+ *   - RestuarantContainer
+ *          - RestaurantCard
+ *              - Img
+ *              - Name of res, Star Rating, Cuisine, Delivery time
+ * Footer
+ *   - Copyright
+ *   - Links
+ *   - Address
+ *   - Contact 
+ */
